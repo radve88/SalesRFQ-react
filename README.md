@@ -7,7 +7,9 @@ We'll set up a Node.js Express backend with MySQL to:
 
 
 .1 Install Dependencies
+
 npm init -y
+
 npm install express mysql cors body-parser
 
 
@@ -24,7 +26,9 @@ We'll use Ant Design for:
 2.1 Install Dependencies
 
 npx create-react-app salesrfq-frontend
+
 cd salesrfq-frontend
+
 npm install antd axios
 
 2.2 Create App.js
